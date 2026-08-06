@@ -1,3 +1,5 @@
+#This exercise gives you practice in different indexing and slicing methods.
+
 # Sample inputs (# note: The values given in the prefix code(grey) will be changed by the autograder according to the testcase while running them.
 
 s = "hello pyhton"
